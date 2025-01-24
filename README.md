@@ -37,7 +37,7 @@ Athena: athena:StartQueryExecution, athena:GetQueryResults
 
 # ARCHITECTURE DIAGRAM
 
-![Architecture Diagram]((https://github.com/Lugardesosa/NBA-Data-Lake-Automating-Analytics-Infrastructure-on-AWS/blob/main/NBADataLake.png))
+![Architecture Diagram](https://github.com/Lugardesosa/NBA-Data-Lake-Automating-Analytics-Infrastructure-on-AWS/blob/main/NBADataLake.png)
 
 # START HERE 
 # Step 1: Open CloudShell Console
