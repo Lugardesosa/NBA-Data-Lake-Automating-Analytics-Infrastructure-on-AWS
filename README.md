@@ -53,7 +53,7 @@ nano setup_nba_data_lake.py
 ```
 
 
-2. In another window, go to [GitHub](https://github.com/Lugardesosa/NBA-Data-Lake-Automating-Analytics-Infrastructure-on-AWS.git))
+2. In another window, go to [GitHub](https://github.com/Lugardesosa/NBA-Data-Lake-Automating-Analytics-Infrastructure-on-AWS.git)
 
 -Copy the contents inside the setup_nba_data_lake.py file
 
